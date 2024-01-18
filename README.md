@@ -1,7 +1,6 @@
-# definiciju_vardnica
 # Projekta darbs "Vārdu skaidrojumu atrašanas automatizēšana"
-# Veidotājs : Marta Terēze Jurjāne
-# Apliecības nr : 221RWC046
+Veidotājs : Marta Terēze Jurjāne
+Apliecības nr : 221RWC046 
 
 # Programmas teorijas un izpildes apraksts:
 (Programma sākotnēji izveidota Visual Studio Code)
