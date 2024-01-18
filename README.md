@@ -1,5 +1,5 @@
 # Projekta darbs "Vārdu skaidrojumu atrašanas automatizēšana"
-Veidotājs : Marta Terēze Jurjāne
+Veidotājs : Marta Terēze Jurjāne,
 Apliecības nr : 221RWC046 
 
 # Programmas teorijas un izpildes apraksts:
