@@ -25,15 +25,8 @@ def interneta_meklesana(vards):
     try:
         find = driver.find_element(By.CLASS_NAME, "dict_Gloss")
         return find.text
-
     except NoSuchElementException:
         return "Tezaurā šim vārdam skaidrojuma nav"
-
-    # find = driver.find_element(By.CLASS_NAME, "dict_Gloss")
-    # if find is None:
-    #     return "Tezaurā šim vārdam skaidrojuma nav"
-    # else:
-    #     return find.text
 
 wb = load_workbook('vardnica.xlsx')
 ws = wb.active
